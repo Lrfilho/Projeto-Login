@@ -49,6 +49,7 @@ section#login > div#imagem {
     background: #FF4B82 url(../imagens/pexels-gdtography-277628-911758.jpg)  no-repeat;
     background-size: cover;
     height: 200px;
+    overflow: hidden;
 }
 
 section#login > div#formulario{
